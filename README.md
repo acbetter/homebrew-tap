@@ -10,6 +10,8 @@ brew cask install flutter
 
 ## Flutter
 
+thanks [spectralkh/tap](https://github.com/SpectralKH/homebrew-tap/blob/master/Casks/flutter.rb)
+
 flutter-sdk path will be
 
 `/usr/local/opt/flutter`
