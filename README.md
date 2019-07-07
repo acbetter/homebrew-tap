@@ -1,2 +1,7 @@
-# homebrew-tap
-Homebrew tap for acbetter/matlab2dash etc...
+# Homebrew Tap
+
+```shell
+brew tap acbetter/homebrew-tap
+brew install matlab2dash
+brew cask install flutter
+```
