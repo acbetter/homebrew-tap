@@ -2,7 +2,7 @@ class WxmacAT310 < Formula
   desc "Cross-platform C++ GUI toolkit (wxWidgets for macOS)"
   homepage "https://www.wxwidgets.org"
   url "https://github.com/wxWidgets/wxWidgets/releases/download/v3.1.0/wxWidgets-3.1.0.tar.bz2"
-  sha256 "2170839cfa9d9322e8ee8368b21a15a2497b4f11"
+  sha256 "e082460fb6bf14b7dd6e8ac142598d1d3d0b08a7b5ba402fdbf8711da7e66da8"
   revision 2
   head "https://github.com/wxWidgets/wxWidgets.git"
 
