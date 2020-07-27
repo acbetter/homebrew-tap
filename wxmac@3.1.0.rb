@@ -40,6 +40,8 @@ class WxmacAT310 < Formula
       "--disable-precomp-headers",
       # This is the default option, but be explicit
       "--disable-monolithic",
+      # https://github.com/cjcliffe/CubicSDR/issues/603
+      "-disable-mediactrl",
       # Set with-macosx-version-min to avoid configure defaulting to 10.5
       "--with-macosx-version-min=#{MacOS.version}",
     ]
